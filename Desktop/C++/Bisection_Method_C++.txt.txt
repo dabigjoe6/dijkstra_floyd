@@ -1,0 +1,61 @@
+#include <iostream>
+#include <cmath>
+#include <iomanip>
+using namespace std;
+
+float func(float x)
+{
+    float fx;
+    fx =  (x * x * x) - (0.165 * x * x) + 0.0003993;
+    return fx;
+}
+int main()
+{
+
+    float a, b, c, root, absError, temp;
+
+    cout << "Enter lower guess: ";
+    cin >> a;
+    cout << "Enter higher guess: ";
+    cin >> b;
+    c = (a + b) / 2;
+    cout << endl;
+    float tollerance;
+    /*cout << "Enter the error tollerance: ";
+    cin >> tollerance;*/
+    int i = 0;
+    while(i < 15)
+    {
+        if(func(a) * func(c) < 0)
+        {
+            a = a;
+            b = c;
+            temp = c;
+            c = (a + b) / 2;
+            absError = ((c - temp) / c) * 100;
+        }
+        else
+        {
+            b = b;
+            a = c;
+            temp = c;
+            c = (a + b) / 2;
+            absError = ((c - temp) / c) * 100;
+
+        }
+
+        if(func(a) * func(c) == 0)
+        {
+            root = c;
+        }
+
+        if(absError < 0)
+            absError = absError * -1;
+        cout << setprecision(2) << a << "\t\t" << b << "\t\t" << c << "\t\t" << absError << "%" << "\t\t" << func(c) << endl;
+        ++i;
+    }
+
+    cout << "The accurate root is " << c << endl;
+    
+
+}
