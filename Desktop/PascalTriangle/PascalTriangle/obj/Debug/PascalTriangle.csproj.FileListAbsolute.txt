@@ -1,0 +1,12 @@
+c:\users\onyx\documents\visual studio 2015\Projects\PascalTriangle\PascalTriangle\bin\Debug\PascalTriangle.exe.config
+c:\users\onyx\documents\visual studio 2015\Projects\PascalTriangle\PascalTriangle\bin\Debug\PascalTriangle.exe
+c:\users\onyx\documents\visual studio 2015\Projects\PascalTriangle\PascalTriangle\bin\Debug\PascalTriangle.pdb
+c:\users\onyx\documents\visual studio 2015\Projects\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.csprojResolveAssemblyReference.cache
+c:\users\onyx\documents\visual studio 2015\Projects\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.exe
+c:\users\onyx\documents\visual studio 2015\Projects\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.pdb
+C:\Users\ANONYMOUS\Documents\Visual Studio 2015\Projects\PascalTriangle\PascalTriangle\bin\Debug\PascalTriangle.exe.config
+C:\Users\ANONYMOUS\Documents\Visual Studio 2015\Projects\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.exe
+C:\Users\ANONYMOUS\Documents\Visual Studio 2015\Projects\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.pdb
+C:\Users\ANONYMOUS\Documents\Visual Studio 2015\Projects\PascalTriangle\PascalTriangle\bin\Debug\PascalTriangle.exe
+C:\Users\ANONYMOUS\Documents\Visual Studio 2015\Projects\PascalTriangle\PascalTriangle\bin\Debug\PascalTriangle.pdb
+C:\Users\ANONYMOUS\Documents\Visual Studio 2015\Projects\PascalTriangle\PascalTriangle\obj\Debug\PascalTriangle.csprojResolveAssemblyReference.cache
