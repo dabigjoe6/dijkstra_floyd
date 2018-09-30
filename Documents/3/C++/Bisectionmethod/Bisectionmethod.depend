@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501991335 source:c:\users\onyx\documents\ssg206 assignment\c++\bisectionmethod\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
